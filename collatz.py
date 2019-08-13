@@ -44,7 +44,7 @@ def collatz():
             break
 
         finally:
-            return print("----- That's the end of the program :) ----")
+            return num
 
 
 if __name__ == "__main__":
